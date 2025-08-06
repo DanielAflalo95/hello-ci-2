@@ -1,6 +1,6 @@
 def add(a, b):
     return a + b
-x = 1  # <- unused variable, flake8 will complain
+
 
 if __name__ == "__main__":
     print("Welcome to Project 2: CI with Linting")
